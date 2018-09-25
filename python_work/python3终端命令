@@ -1,0 +1,16 @@
+//查看python版本
+python3 --version
+
+
+//获取python解释器的完整路径
+type -a python3
+
+//进入python3环境
+python3
+
+//退出python3环境
+exit()  或Ctrl+D
+
+//在终端运行Python程序
+cd deskTop/pyhon_work    (切换到文件的目录)
+python3 文件名
